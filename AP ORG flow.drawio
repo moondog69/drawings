@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T14:57:56.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="e7VotPQAJPX2ZUWhYG15" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T15:13:48.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="vrpm2K3ZzJV4fJBGXrpv" version="22.0.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2578" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="AP Responsiblity Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="45" y="80" width="769" height="972" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="DTIPO Accountable Property Responsiblity Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
+          <mxGeometry x="45" y="80" width="786" height="972" as="geometry" />
         </mxCell>
         <mxCell id="dzPAx5SlECVa3Kq1UbUI-2" value="Director DTIPO" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="288" y="78" width="120" height="60" as="geometry" />
@@ -207,6 +207,9 @@
         </mxCell>
         <mxCell id="dzPAx5SlECVa3Kq1UbUI-50" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;*&lt;/b&gt; Primary Accountable Property Custodians" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="-161" y="354" width="588" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dzPAx5SlECVa3Kq1UbUI-51" value="&lt;b&gt;NOTE: Not all Primary Property Custodians are reflected in this chart, it is representative. Additional&amp;nbsp; PPC&#39;s will be identified and&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;assigned as required for efficiency across the enterprise. As an example &quot;COMSEC&quot; is listed as a PPC but is not a DIV Chief level&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;position.&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;However, they are already accountable for ALL COMSEC.&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="22" y="711" width="759" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dzPAx5SlECVa3Kq1UbUI-17" value="Contractor Furnished AP i.e GFP (ext DTIPO)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="429" y="286" width="270" height="30" as="geometry" />
