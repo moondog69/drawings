@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T11:45:15.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="R6WRObHT70wEAhqjKT_f" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T11:51:07.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="swuNwK5GsNs_EgqPc0W0" version="22.0.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2924" dy="1128" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,6 +210,12 @@
         </mxCell>
         <mxCell id="dzPAx5SlECVa3Kq1UbUI-51" value="&lt;b&gt;NOTE: Not all Primary Property Custodians are reflected in this chart, it is representative. Additional&amp;nbsp; PPC&#39;s will be identified and&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;assigned as required for efficiency across the enterprise. As an example &quot;COMSEC&quot; is listed as a PPC but is not a DIV Chief level&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;position.&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;However, they are already accountable for ALL COMSEC therefore included.&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="22" y="711" width="759" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LD92iFnEPg5tuBb2xaTQ-1" value="DTI Enterprise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B09500;fillColor=#F2CC8F;fontColor=#000000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="28" y="812" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LD92iFnEPg5tuBb2xaTQ-2" value="External Contractor Site" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B09500;fillColor=#DAE8FC;fontColor=#000000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="28" y="859" width="145" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dzPAx5SlECVa3Kq1UbUI-17" value="GE Furnished to Contractors i.e GFP (ext DTIPO)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="423" y="288" width="282" height="26" as="geometry" />
